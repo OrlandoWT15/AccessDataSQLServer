@@ -70,3 +70,39 @@ C:\Users\Orlando\Documents\Mis Documentos\Desarrollo Web Integral\Acceso a Datos
 C:\Users\Orlando\Documents\Mis Documentos\Desarrollo Web Integral\Acceso a Datos\prod\AccessData\AccessData\obj\Debug\AccessData.csproj.CopyComplete
 C:\Users\Orlando\Documents\Mis Documentos\Desarrollo Web Integral\Acceso a Datos\prod\AccessData\AccessData\obj\Debug\AccessData.dll
 C:\Users\Orlando\Documents\Mis Documentos\Desarrollo Web Integral\Acceso a Datos\prod\AccessData\AccessData\obj\Debug\AccessData.pdb
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\AccessData.dll.config
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\AccessData.dll
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\AccessData.pdb
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\csc.exe
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\csc.exe.config
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\csc.rsp
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\csi.exe
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\csi.rsp
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\vbc.exe
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\vbc.rsp
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\obj\Debug\AccessData.csproj.AssemblyReference.cache
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\obj\Debug\AccessData.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\obj\Debug\AccessData.csproj.CopyComplete
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\obj\Debug\AccessData.dll
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\obj\Debug\AccessData.pdb

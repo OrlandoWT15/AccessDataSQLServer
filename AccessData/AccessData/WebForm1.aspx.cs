@@ -41,7 +41,7 @@ namespace AccessData
             using (puertaPequenia = new SqlConnection())
                 try
                 {
-                    puertaPequenia.ConnectionString = puerta.ConnectionString = @"Data Source=DESKTOP-NK87S40\WTSQLSERVER; Initial Catalog=SeguimientoCovid; Integrated Security=true"; ;
+                    puerta.ConnectionString = System.Configuration.ConfigurationManager.ConnectionStrings["conkcinco"].ConnectionString;
                     puerta.Open();
                     SqlCommand comand = new SqlCommand();
 
@@ -66,13 +66,12 @@ namespace AccessData
         protected void Button2_Click(object sender, EventArgs e)
         {
             SqlCommand comand = null;
-            SqlDataReader caja = null;
             SqlDataAdapter cajaG = null;
-            DataTable cajaS = null;
+            DataSet cajaS = null;
 
             using (puerta=new SqlConnection())
             {
-                puerta.ConnectionString = @"Data Source=DESKTOP-NK87S40\WTSQLSERVER; Initial Catalog=SeguimientoCovid; Integrated Security=true";
+                puerta.ConnectionString = System.Configuration.ConfigurationManager.ConnectionStrings["conkcinco"].ConnectionString;
                 try
                 {
                     puerta.Open();
@@ -80,14 +79,14 @@ namespace AccessData
                     comand.CommandText = "select * from profesor";
                     comand.Connection = puerta;
                     cajaG = new SqlDataAdapter();
-                    cajaS = new DataTable();
+                    cajaS = new DataSet();
                     cajaG.SelectCommand = comand;
                     cajaG.Fill(cajaS);
 
-                    caja = comand.ExecuteReader();
-                    if (caja.HasRows)
+                    
+                    if (cajaS!=null)
                     {
-                        GridView1.DataSource = cajaS;
+                        GridView1.DataSource = cajaS.Tables[0];
                         GridView1.DataBind();
                         TextBox1.Text = "Consulta Correcta";
                     }
