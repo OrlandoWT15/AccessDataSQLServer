@@ -34,3 +34,5 @@ C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\ob
 C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\obj\Release\AccessData.csproj.CopyComplete
 C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\obj\Release\AccessData.dll
 C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\obj\Release\AccessData.pdb
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\Class_AccesoSQL.dll
+C:\Users\Lenovo_AIO_11\Source\Repos\AccessDataSQLServer\AccessData\AccessData\bin\Class_AccesoSQL.pdb

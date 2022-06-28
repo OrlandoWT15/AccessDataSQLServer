@@ -1,0 +1,6 @@
+C:\Users\Lenovo_AIO_11\source\repos\AccessDataSQLServer\AccessData\Class_AccesoSQL\bin\Release\Class_AccesoSQL.dll
+C:\Users\Lenovo_AIO_11\source\repos\AccessDataSQLServer\AccessData\Class_AccesoSQL\bin\Release\Class_AccesoSQL.pdb
+C:\Users\Lenovo_AIO_11\source\repos\AccessDataSQLServer\AccessData\Class_AccesoSQL\obj\Release\Class_AccesoSQL.csproj.AssemblyReference.cache
+C:\Users\Lenovo_AIO_11\source\repos\AccessDataSQLServer\AccessData\Class_AccesoSQL\obj\Release\Class_AccesoSQL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo_AIO_11\source\repos\AccessDataSQLServer\AccessData\Class_AccesoSQL\obj\Release\Class_AccesoSQL.dll
+C:\Users\Lenovo_AIO_11\source\repos\AccessDataSQLServer\AccessData\Class_AccesoSQL\obj\Release\Class_AccesoSQL.pdb
